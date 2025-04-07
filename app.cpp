@@ -1,7 +1,7 @@
-#include <iostream>  // For printing things to the screen.
-#include <cctype>    // To check if a character is a letter or a number.
-#include <string>    // To work with strings.
-using namespace std; // We don’t need to type std:: before every function.
+#include <iostream>  
+#include <cctype>    
+#include <string>    
+using namespace std; 
 
 #define LETTER 0    // Used to represent a letter (A-Z, a-z).
 #define DIGIT 1     // Used to represent a digit (0-9).
